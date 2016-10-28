@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9123752"
-     inkscape:cx="964.20777"
-     inkscape:cy="-513.58455"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="552.17334"
+     inkscape:cy="-233.56864"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -127,8 +127,8 @@
        inkscape:export-ydpi="207.18076"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo5.png" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -136,8 +136,8 @@
        id="path4382"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccscccsccsccc"
        inkscape:connector-curvature="0"
@@ -145,8 +145,8 @@
        id="path4384"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="cscccssccsccccc"
        inkscape:connector-curvature="0"
@@ -154,8 +154,8 @@
        id="path4386"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -163,8 +163,8 @@
        id="path4388"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path4390"
        d="m 1053.3338,660.15364 c -0.178,3.43591 -0.1324,6.87883 -0.1405,10.31813 0.015,2.8624 0.091,5.72448 0.07,8.58701 0.03,2.2176 0.025,4.43547 0.023,6.65322 0.01,2.20204 -0.023,4.40436 0.011,6.60621 -0.018,2.1616 -0.015,4.3228 0,6.48447 0.042,1.72207 0.023,3.44425 0,5.16635 -0.019,2.24881 -0.018,4.49773 -0.019,6.74661 0.039,2.15076 -0.014,4.30153 0.011,6.45224 0.025,1.96826 0.014,3.93547 -0.01,5.90361 -0.033,2.29365 0.016,4.58759 0,6.88103 0.026,2.0402 0.012,4.08064 0.01,6.12093 l -15.0427,7.66465 0,0 c -0.01,-2.04259 -0.019,-4.08534 0.01,-6.12784 -0.018,-2.29284 0.032,-4.58619 0,-6.87923 -0.019,-1.96643 -0.029,-3.93193 0,-5.89849 0.024,-2.15431 -0.028,-4.30868 0.011,-6.46304 -7e-4,-2.24239 -10e-5,-4.48482 -0.019,-6.72714 -0.02,-1.7232 -0.038,-3.44647 0,-5.16965 0.013,-2.16108 0.017,-4.3217 0,-6.48271 0.034,-2.20556 0,-4.41155 0.011,-6.6173 0,-2.22553 -0.01,-4.45118 0.023,-6.67657 -0.021,-2.88636 0.056,-5.7723 0.07,-8.65855 -0.01,-3.39152 0.04,-16.10334 -0.1405,-19.49129 l 15.1297,1.60735 z"
@@ -287,8 +287,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3391"
@@ -296,8 +296,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscccccccsccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3393"
@@ -305,8 +305,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscccssccscccsssscsccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3395"
@@ -314,20 +314,20 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
        d="m 1051.7837,788.3069 c -0.178,3.43591 -0.1323,6.87883 -0.1405,10.31813 0.015,2.8624 0.091,5.72448 0.07,8.58701 0.03,2.2176 0.025,4.43547 0.023,6.65322 0.01,2.20204 -0.023,4.40436 0.011,6.60621 -0.018,2.1616 -0.015,4.3228 0,6.48447 0.042,1.72207 0.023,3.44425 0,5.16635 -0.019,2.24881 -0.018,4.49773 -0.019,6.74661 0.039,2.15076 -0.014,4.30154 0.011,6.45224 0.025,1.9683 0.014,3.9355 -0.01,5.9036 -0.033,2.2937 0.016,4.5876 0,6.881 0.026,2.0402 0.012,4.0807 0.01,6.121 l -15.0427,7.6646 0,0 c -0.01,-2.0426 -0.019,-4.0853 0.01,-6.1278 -0.018,-2.2929 0.032,-4.5862 0,-6.8792 -0.019,-1.9665 -0.029,-3.932 -0.01,-5.8985 0.024,-2.1543 -0.028,-4.3087 0.011,-6.4631 -6e-4,-2.2424 0,-4.4848 -0.019,-6.72712 -0.02,-1.7232 -0.038,-3.44647 0,-5.16965 0.013,-2.16108 0.017,-4.3217 0,-6.48271 0.034,-2.20556 0.01,-4.41155 0.011,-6.6173 0,-2.22553 -0.01,-4.45118 0.023,-6.67657 -0.021,-2.88636 0.056,-5.7723 0.07,-8.65855 -0.01,-3.39152 0.04,-16.10334 -0.1405,-19.49129 l 15.1298,1.60735 z"
        id="path3397"
        style="fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -335,8 +335,8 @@
        id="path3405"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccscccccccsccc"
        inkscape:connector-curvature="0"
@@ -344,8 +344,8 @@
        id="path3407"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="csscccssccscccsssscsccc"
        inkscape:connector-curvature="0"
@@ -353,8 +353,8 @@
        id="path3409"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -362,8 +362,8 @@
        id="path3411"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3413"
        d="m 1053.4278,931.88824 c -0.178,3.4359 -0.1323,6.8788 -0.1405,10.3181 0.015,2.8624 0.091,5.7245 0.07,8.587 0.03,2.2176 0.025,4.4355 0.023,6.65316 0.01,2.2021 -0.023,4.4044 0.011,6.6062 -0.018,2.1616 -0.015,4.3228 0,6.4845 0.042,1.7221 0.023,3.4443 0,5.1664 -0.019,2.2488 -0.018,4.4977 -0.019,6.7466 0.039,2.1507 -0.014,4.3015 0.011,6.4522 0.025,1.9683 0.014,3.9355 -0.01,5.9036 -0.033,2.2937 0.016,4.5876 0,6.881 0.026,2.0402 0.012,4.0807 0.01,6.121 l -15.0427,7.6646 0,0 c -0.01,-2.0426 -0.019,-4.0853 0.01,-6.1278 -0.018,-2.2929 0.032,-4.5862 0,-6.8792 -0.019,-1.9665 -0.029,-3.932 0,-5.8985 0.024,-2.1543 -0.028,-4.3087 0.011,-6.4631 -7e-4,-2.2424 -10e-5,-4.4848 -0.019,-6.7271 -0.02,-1.7232 -0.038,-3.4465 0,-5.1697 0.013,-2.161 0.017,-4.3217 0,-6.4827 0.034,-2.2055 0.01,-4.4115 0.011,-6.6173 0,-2.2255 -0.01,-4.4512 0.023,-6.6765 -0.021,-2.88636 0.056,-5.77226 0.07,-8.65856 -0.01,-3.3915 0.04,-16.1033 -0.1405,-19.4913 l 15.1297,1.6074 z"
@@ -371,8 +371,8 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -380,8 +380,8 @@
        id="path3415"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccscccccscsccc"
        inkscape:connector-curvature="0"
@@ -389,8 +389,8 @@
        id="path3417"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="csscccssccscccccc"
        inkscape:connector-curvature="0"
@@ -398,8 +398,8 @@
        id="path3419"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -408,8 +408,8 @@
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3423"
        d="m 1052.8637,536.68396 c -0.178,3.43591 -0.1324,6.87883 -0.1405,10.31813 0.015,2.8624 0.091,5.72448 0.07,8.58701 0.03,2.2176 0.025,4.43547 0.023,6.65322 0.01,2.20204 -0.023,4.40436 0.011,6.60621 -0.018,2.1616 -0.015,4.3228 0,6.48447 0.042,1.72207 0.023,3.44425 0,5.16635 -0.019,2.24881 -0.018,4.49773 -0.019,6.74661 0.039,2.15076 -0.014,4.30153 0.011,6.45224 0.025,1.96826 0.014,3.93547 -0.01,5.90361 -0.033,2.29365 0.016,4.58759 0,6.88103 0.026,2.0402 0.012,4.08064 0.01,6.12093 l -15.0428,7.66465 0,0 c -0.01,-2.04259 -0.019,-4.08534 0.01,-6.12784 -0.018,-2.29284 0.032,-4.58619 0,-6.87923 -0.019,-1.96643 -0.029,-3.93193 0,-5.89849 0.024,-2.15431 -0.028,-4.30868 0.011,-6.46304 -6e-4,-2.24239 0,-4.48482 -0.019,-6.72714 -0.02,-1.7232 -0.038,-3.44647 0,-5.16965 0.013,-2.16108 0.017,-4.3217 0,-6.48271 0.034,-2.20556 0.01,-4.41155 0.011,-6.6173 0,-2.22553 -0.01,-4.45118 0.023,-6.67657 -0.021,-2.88636 0.056,-5.7723 0.07,-8.65855 -0.01,-3.39152 0.04,-16.10334 -0.1405,-19.49129 l 15.1298,1.60735 z"
@@ -422,8 +422,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3446"
@@ -431,8 +431,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsccccccsccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3448"
@@ -440,8 +440,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscccssccsccccssc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3450"
@@ -449,8 +449,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
@@ -458,11 +458,11 @@
        d="m 1053.4278,1063.8882 c -0.178,3.4359 -0.1323,6.8788 -0.1405,10.3181 0.015,2.8624 0.091,5.7245 0.07,8.587 0.03,2.2176 0.025,4.4355 0.023,6.6532 0.01,2.2021 -0.023,4.4044 0.011,6.6062 -0.018,2.1616 -0.015,4.3228 0,6.4845 0.042,1.7221 0.023,3.4443 0,5.1664 -0.019,2.2488 -0.018,4.4977 -0.019,6.7466 0.039,2.1507 -0.014,4.3015 0.011,6.4522 0.025,1.9683 0.014,3.9355 -0.01,5.9036 -0.033,2.2937 0.016,4.5876 0,6.881 0.026,2.0402 0.012,4.0807 0.01,6.121 l -15.0427,7.6646 0,0 c -0.01,-2.0426 -0.019,-4.0853 0.01,-6.1278 -0.018,-2.2929 0.032,-4.5862 0,-6.8792 -0.019,-1.9665 -0.029,-3.932 0,-5.8985 0.024,-2.1543 -0.028,-4.3087 0.011,-6.4631 -7e-4,-2.2424 -10e-5,-4.4848 -0.019,-6.7271 -0.02,-1.7232 -0.038,-3.4465 0,-5.1697 0.013,-2.161 0.017,-4.3217 0,-6.4827 0.034,-2.2055 0.01,-4.4115 0.011,-6.6173 0,-2.2255 -0.01,-4.4512 0.023,-6.6765 -0.021,-2.8864 0.056,-5.7723 0.07,-8.6586 -0.01,-3.3915 0.04,-16.1033 -0.1405,-19.4913 l 15.1297,1.6074 z"
        id="path3452"
        style="fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -470,8 +470,8 @@
        id="path3454"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -479,8 +479,8 @@
        id="path3546"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccsccccccsccc"
        inkscape:connector-curvature="0"
@@ -488,8 +488,8 @@
        id="path3548"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="cscccssccsccccssc"
        inkscape:connector-curvature="0"
@@ -497,8 +497,8 @@
        id="path3550"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -506,8 +506,8 @@
        id="path3552"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3554"
        d="m 1055.6199,1189.9328 c -0.178,3.4359 -0.1323,6.8788 -0.1405,10.3181 0.015,2.8624 0.091,5.7245 0.07,8.587 0.03,2.2176 0.025,4.4355 0.023,6.6532 0.01,2.2021 -0.023,4.4044 0.011,6.6062 -0.018,2.1616 -0.015,4.3228 0,6.4845 0.042,1.7221 0.023,3.4443 0,5.1664 -0.019,2.2488 -0.018,4.4977 -0.019,6.7466 0.039,2.1507 -0.014,4.3015 0.011,6.4522 0.025,1.9683 0.014,3.9355 -0.01,5.9036 -0.033,2.2937 0.016,4.5876 0,6.881 0.026,2.0402 0.012,4.0807 0.01,6.121 l -15.0427,7.6646 0,0 c -0.01,-2.0426 -0.019,-4.0853 0.01,-6.1278 -0.018,-2.2929 0.032,-4.5862 0,-6.8792 -0.019,-1.9665 -0.029,-3.932 0,-5.8985 0.024,-2.1543 -0.028,-4.3087 0.011,-6.4631 -7e-4,-2.2424 -10e-5,-4.4848 -0.019,-6.7271 -0.02,-1.7232 -0.038,-3.4465 0,-5.1697 0.013,-2.161 0.017,-4.3217 0,-6.4827 0.034,-2.2055 0.01,-4.4115 0.011,-6.6173 0,-2.2255 -0.01,-4.4512 0.023,-6.6765 -0.021,-2.8864 0.056,-5.7723 0.07,-8.6586 -0.01,-3.3915 0.04,-16.1033 -0.1405,-19.4913 l 15.1297,1.6074 z"
@@ -521,11 +521,11 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -533,8 +533,8 @@
        id="path3558"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccsccccccsccc"
        inkscape:connector-curvature="0"
@@ -542,8 +542,8 @@
        id="path3560"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="cscccssccsccccssc"
        inkscape:connector-curvature="0"
@@ -551,8 +551,8 @@
        id="path3562"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -560,8 +560,8 @@
        id="path3564"
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3566"
        d="m 1056.7159,1307.2091 c -0.178,3.4359 -0.1323,6.8788 -0.1405,10.3181 0.015,2.8624 0.091,5.7245 0.07,8.587 0.03,2.2176 0.025,4.4355 0.023,6.6532 0.01,2.2021 -0.023,4.4044 0.011,6.6062 -0.018,2.1616 -0.015,4.3228 0,6.4845 0.042,1.7221 0.023,3.4443 0,5.1664 -0.019,2.2488 -0.018,4.4977 -0.019,6.7466 0.039,2.1507 -0.014,4.3015 0.011,6.4522 0.025,1.9683 0.014,3.9355 -0.01,5.9036 -0.033,2.2937 0.016,4.5876 0,6.881 0.026,2.0402 0.012,4.0807 0.01,6.121 l -15.0427,7.6646 0,0 c -0.01,-2.0426 -0.019,-4.0853 0.01,-6.1278 -0.018,-2.2929 0.032,-4.5862 0,-6.8792 -0.019,-1.9665 -0.029,-3.932 0,-5.8985 0.024,-2.1543 -0.028,-4.3087 0.011,-6.4631 -7e-4,-2.2424 -10e-5,-4.4848 -0.019,-6.7271 -0.02,-1.7232 -0.038,-3.4465 0,-5.1697 0.013,-2.161 0.017,-4.3217 0,-6.4827 0.034,-2.2055 0.01,-4.4115 0.011,-6.6173 0,-2.2255 -0.01,-4.4512 0.023,-6.6765 -0.021,-2.8864 0.056,-5.7723 0.07,-8.6586 -0.01,-3.3915 0.04,-16.1033 -0.1405,-19.4913 l 15.1297,1.6074 z"
@@ -575,8 +575,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3570"
@@ -584,8 +584,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3572"
@@ -593,8 +593,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsccccccsccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3574"
@@ -602,8 +602,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscccssccsccccssc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="path3576"
@@ -611,11 +611,11 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
     <path
-       inkscape:export-ydpi="207.18076"
-       inkscape:export-xdpi="207.18076"
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
@@ -629,7 +629,70 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
-       inkscape:export-xdpi="207.18076"
-       inkscape:export-ydpi="207.18076" />
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
+    <path
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 722.2031,1526.5437 c 15.12273,0.2923 29.82594,0.2691 44.19236,0.05 2.25314,0.1313 4.58932,-0.3189 6.79578,0.2084 2.473,1.1966 2.47907,3.7364 2.61514,6.1731 -0.0191,4.3682 0.76706,8.6739 1.27623,12.9973 2.17395,15.963 4.26751,48.5063 15.59816,57.3513 3.19916,2.8867 2.7944,3.0225 6.10422,3.7274 18.70255,1.5988 9.18465,1.0103 27.005,0.7818 2.18128,-0.01 1.10654,0 3.22422,-0.014 l -13.55568,9.8492 0,0 -23.75013,-0.4589 c -4.79134,-0.4669 -9.63984,-2.7135 -12.44824,-5.1736 -2.41156,-2.1774 -4.65279,-4.6373 -5.67781,-7.7888 -7.63704,-15.9289 -9.2381,-33.8725 -11.09165,-50.6094 -0.57313,-4.3144 -1.46471,-8.6003 -1.56327,-12.9642 -0.10042,-1.4425 0.25109,-3.7985 -1.58262,-4.1344 -11.84736,-0.085 -24.22139,-0.2982 -35.40774,-0.2149 -5.15736,0.028 -10.3167,0.012 -15.47149,0.2 l 13.73752,-9.9806 z"
+       id="path3440"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="410.15134"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
+       sodipodi:nodetypes="ccsccscccc"
+       inkscape:connector-curvature="0"
+       d="m 766.11679,1573.5031 c 2.25099,-2.8912 8.77387,-7.5148 11.34145,-10.1371 16.08128,-14.5789 33.33571,-35.0055 53.26898,-35.39 43.31232,-0.8352 26.0982,0.4565 70.96007,0.1794 l -0.47411,9.1171 c -47.91473,-0.1271 -27.98093,-0.677 -67.36466,0.726 -20.62462,0.7346 -35.67607,23.8139 -48.23299,38.9182 -25.04075,27.9983 -48.65255,37.0361 -78.43381,39.5928 43.13037,-25.1457 27.89507,-17.6913 58.9351,-43.006 z"
+       id="path3442"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3449"
+       d="m 860.37673,1533.7096 c -0.178,3.4359 -0.13234,6.8788 -0.1405,10.3181 0.0148,2.8624 0.0912,5.7245 0.0702,8.587 0.0299,2.2176 0.0248,4.4355 0.0229,6.6532 0.007,2.2021 -0.0231,4.4044 0.0109,6.6062 -0.0182,2.1616 -0.015,4.3228 -0.002,6.4845 0.0417,1.7221 0.023,3.4443 0.003,5.1664 -0.019,2.2488 -0.0185,4.4977 -0.0191,6.7466 0.0386,2.1507 -0.0137,4.3015 0.0106,6.4522 0.0246,1.9683 0.0139,3.9355 -0.005,5.9036 -0.0334,2.2937 0.0163,4.5876 -0.002,6.881 0.0261,2.0402 0.56032,11.753 0.55502,13.7933 l -15.59074,-0.01 0,0 c -0.006,-2.0426 -0.0193,-4.0853 0.007,-6.1278 -0.0182,-2.2929 0.0318,-4.5862 -0.002,-6.8792 -0.0191,-1.9665 -0.0294,-3.932 -0.005,-5.8985 0.024,-2.1543 -0.0278,-4.3087 0.0106,-6.4631 -6.5e-4,-2.2424 -7e-5,-4.4848 -0.0191,-6.7271 -0.02,-1.7232 -0.0381,-3.4465 0.003,-5.1697 0.0132,-2.161 0.0166,-4.3217 -0.002,-6.4827 0.0335,-2.2055 0.005,-4.4115 0.0109,-6.6173 -0.002,-2.2255 -0.007,-4.4512 0.0229,-6.6765 -0.0213,-2.8864 0.0559,-5.7723 0.0702,-8.6586 -0.008,-3.3915 0.04,-11.1712 -0.14051,-14.5591 l 15.12975,-3.3248 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3455"
+       d="m 754.56308,1616.1049 c 14.90765,-0.2517 34.49943,0.577 26.29237,19.4124 -41.27798,40.3033 -11.39123,13.5977 -41.27798,40.3033 l -12.37201,-4.4305 c 14.68067,-13.8179 14.26511,-11.0068 20.07852,-17.7748 10.36987,-12.1606 26.20619,-27.659 9.90503,-27.6183 -17.95481,-0.052 -49.98351,0.01 -49.98351,0.01 l -0.0316,-9.4996 c 0,0 30.54039,-0.2928 47.38922,-0.3987 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3457"
+       d="m 741.28069,1665.2229 c 7.42028,7.1532 29.1399,34.8318 47.98321,34.0575 5.63245,-0.2315 13.55294,-8.0082 13.8368,-17.6309 -0.12724,-39.6338 -0.15351,-27.2337 0.2284,-51.5618 0.55859,-16.2244 -1.37232,-14.5906 78.2151,-13.3111 4.9391,0.024 8.9082,0.3432 12.0764,0.618 11.8134,1.0245 7.6081,21.3718 7.7479,37.5852 0.2322,26.9237 -0.045,0.2899 0.101,27.2289 -0.02,0.3084 -1.6851,28.5659 -1.7055,28.8742 -12.343,-13.8446 -13.4505,-18.8448 -12.1093,-47.92 0.3978,-8.6227 -0.1815,-23.8118 0.1678,-35.528 -77.7299,-0.4253 10.0673,-0.6858 -70.1899,-0.553 -0.082,79.1147 3.4266,82.695 -41.79279,82.3897 -17.88494,-5.9904 -38.75574,-22.4362 -43.30278,-29.4776 -16.17901,-1.7507 -1.86044,-0.7674 -12.56602,-1.7587 0,0 -19.04423,-15.8519 -0.52316,-14.5898 18.13135,1.2355 16.19757,-1.9065 21.83284,1.5774 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccssccsccccssc"
+       inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3459"
+       d="m 722.36099,1623.2091 c -0.178,3.4359 -0.13234,6.8788 -0.1405,10.3181 0.0148,2.8624 0.0912,5.7245 0.0702,8.587 0.0299,2.2176 0.0248,4.4355 0.0229,6.6532 0.007,2.2021 -0.0231,4.4044 0.0109,6.6062 -0.0182,2.1616 -0.015,4.3228 -0.002,6.4845 0.0417,1.7221 0.023,3.4443 0.003,5.1664 -0.019,2.2488 -0.0185,4.4977 -0.0191,6.7466 0.0386,2.1507 -0.0137,4.3015 0.0106,6.4522 0.0246,1.9683 0.0139,3.9355 -0.005,5.9036 -0.0334,2.2937 0.0163,4.5876 -0.002,6.881 0.0261,2.0402 0.56032,11.753 0.55502,13.7933 l -15.59074,-0.01 0,0 c -0.006,-2.0426 -0.0193,-4.0853 0.007,-6.1278 -0.0182,-2.2929 0.0318,-4.5862 -0.002,-6.8792 -0.0191,-1.9665 -0.0294,-3.932 -0.005,-5.8985 0.024,-2.1543 -0.0278,-4.3087 0.0106,-6.4631 -6.5e-4,-2.2424 -7e-5,-4.4848 -0.0191,-6.7271 -0.02,-1.7232 -0.0381,-3.4465 0.003,-5.1697 0.0132,-2.161 0.0166,-4.3217 -0.002,-6.4827 0.0335,-2.2055 0.005,-4.4115 0.0109,-6.6173 -0.002,-2.2255 -0.007,-4.4512 0.0229,-6.6765 -0.0213,-2.8864 0.0559,-5.7723 0.0702,-8.6586 -0.008,-3.3915 0.04,-13.1712 -0.14051,-16.5591 l 15.12975,-1.3248 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path3463"
+       d="m 860.361,1618.8251 c -0.178,3.6161 -0.1323,7.2395 -0.1405,10.8592 0.015,3.0125 0.091,6.0247 0.07,9.0373 0.03,2.334 0.025,4.6682 0.023,7.0022 0.01,2.3176 -0.023,4.6354 0.011,6.9526 -0.018,2.275 -0.015,4.5496 0,6.8246 0.042,1.8124 0.023,3.625 0,5.4374 -0.019,2.3667 -0.019,4.7336 -0.019,7.1004 0.039,2.2635 -0.014,4.5271 0.011,6.7906 0.025,2.0715 0.014,4.1419 0,6.2132 -0.033,2.414 0.016,4.8282 0,7.2419 0.026,2.1472 0.5603,12.3694 0.555,14.5167 l -15.5907,-0.011 0,0 c -0.01,-2.1497 -0.019,-4.2996 0.01,-6.4492 -0.018,-2.4132 0.032,-4.8267 0,-7.24 -0.019,-2.0696 -0.029,-4.1382 0,-6.2078 0.024,-2.2673 -0.028,-4.5347 0.011,-6.8021 -7e-4,-2.36 -10e-5,-4.72 -0.019,-7.0799 -0.02,-1.8136 -0.038,-3.6273 0,-5.4408 0.013,-2.2744 0.017,-4.5484 0,-6.8227 0.034,-2.3212 0,-4.6429 0.011,-6.9644 0,-2.3422 -0.01,-4.6846 0.023,-7.0266 -0.021,-3.0378 0.056,-6.0751 0.07,-9.1127 -0.01,-3.5694 0.04,-11.7571 -0.1405,-15.3227 l 15.1297,-3.4992 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:export-filename="/Users/geza/Dropbox/xtrm-logo/xtrm-logo-collection.png"
+       inkscape:export-xdpi="410.15134"
+       inkscape:export-ydpi="410.15134" />
   </g>
 </svg>
